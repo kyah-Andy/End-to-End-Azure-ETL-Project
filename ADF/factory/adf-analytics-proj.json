@@ -1,0 +1,15 @@
+{
+	"name": "adf-analytics-proj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "36e2ef41-3aa4-4f09-8df4-7652e945c8ff",
+		"tenantId": "7ebe87c7-d1ae-41e2-9b31-361a808e6c6f"
+	}
+}
